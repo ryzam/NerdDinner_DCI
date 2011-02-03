@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using SisoDb;
+using System.Configuration;
 
 namespace NerdDinner.Controllers
 {
@@ -13,7 +14,7 @@ namespace NerdDinner.Controllers
 
         public AbstractController()
         {
-            var cnInfo = new SisoConnectionInfo(@"sisodb:provider=Sql2008||plain:server=.\SQLEXPRESS;Database=nerddiner;user id=nerddinner;password=qwe123;");
+            var cnInfo = new SisoConnectionInfo(ConfigurationManager.AppSettings["nerddinner_connection"]);
 
             db = new SisoDatabase(cnInfo);
         }
