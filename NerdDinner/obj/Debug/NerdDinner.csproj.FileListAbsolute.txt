@@ -1,0 +1,45 @@
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\NerdDinner.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\NerdDinner.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\DDay.iCal.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\Elmah.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\OpenSearchToolkit.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\System.Web.Mvc.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\antlr.runtime.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\Elmah.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\Elmah.xml
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\bin\System.Web.Mvc.xml
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\NerdDinner.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\NerdDinner.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\DDay.iCal.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\Elmah.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\OpenSearchToolkit.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\System.Web.Mvc.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\antlr.runtime.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\log4net.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\Elmah.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\Elmah.xml
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\System.Web.Mvc.xml
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\log4net.xml
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.Reflection.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\Newtonsoft.Json.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\SisoDb.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.Delegates.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.Common.dll
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.DynamicProxy.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.Reflection.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\Newtonsoft.Json.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\Newtonsoft.Json.xml
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\SisoDb.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.Delegates.pdb
+C:\Documents and Settings\Irwan.Azam\My Documents\Downloads\NerdDinner_2.0\NerdDinner_2.0\NerdDinner\bin\LinFu.Common.pdb
